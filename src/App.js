@@ -5,6 +5,8 @@ import $ from "jquery";
 import Header from "./Components/Header.js";
 import About from "./Components/About.js";
 import Contact from "./Components/Contact.js";
+import Resume from "./Components/Resume.js";
+import Portfolio from "./Components/Portfolio.js";
 
 class App extends Component {
   constructor(props) {
@@ -44,6 +46,7 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
+        <Resume data={this.state.resumeData.resume} />
         <Contact data={this.state.resumeData.main} />
       </div>
     )

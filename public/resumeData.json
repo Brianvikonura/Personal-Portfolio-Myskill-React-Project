@@ -17,5 +17,58 @@
         },
         "website": "https://github.com/Brianvikonura",
         "resumedownload":"https://github.com/Brianvikonura"
+    },
+    "resume": {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Gunadarma University",
+                "degree": "Bachelor of Computer Science",
+                "graduated": "August 2024",
+                "description": "Activities and societies: MSIB Batch 5 participants, Information Systems Laboratory Assistant, and Public Relations Staff at FIKTI Career 2022."
+            },
+            {
+                "school": "Darussalam Islamic High School",
+                "degree": "Science Class",
+                "graduated": "2020",
+                "description": "Activities and societies: Event Staff at Darussalam School Expo 14th (Arts, Culture, Education, and Sports Competition)."
+            }
+        ],
+        "work": [
+            {
+                "company": "PT. Surya Citra Media, Tbk",
+                "title": "IT Helpdesk Support Internship",
+                "years": "August 2023 - December 2023",
+                "description": "Provided troubleshooting, installing, and configuring software, hardware, and network systems."
+            },
+            {
+                "company": "Gunadarma University",
+                "title": "Information Systems Laboratory Assistant",
+                "years": "March 2023 - September 2023",
+                "description": "Graded and provided feedback on practicum exercises such as “Linux with C” and system design (UML)."
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Laravel",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "70%"
+            },
+            {
+                "name": "VueJS",
+                "level": "70%"
+            },
+            {
+                "name": "Tailwind CSS",
+                "level": "80%"
+            },
+            {
+                "name": "Bootstrap",
+                "level": "90%"
+            }
+        ]
     }
 }
