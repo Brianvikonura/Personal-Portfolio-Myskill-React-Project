@@ -2,8 +2,18 @@
     "main": {
         "name": "Brian Viko Nura",
         "description": "Software Development Enthusiast",
-        "image": "profilepic.jpg",
+        "image": "profilepic2.jpg",
         "github": "https://github.com/Brianvikonura",
-        "project": "http://github.com/Brianvikonura"
+        "project": "http://github.com/Brianvikonura",
+        "bio": "Hi! Welcome to My Website",
+        "contactmessage":"Hello, here I am",
+        "email": "example@gmail.com",
+        "phone": "0812-3456-7890",
+        "street":"Jl. Somewhere in Bekasi",
+        "city":"Bekasi",
+        "state":"West Java",
+        "zip": "11111",
+        "website": "https://github.com/Brianvikonura",
+        "resumedownload":"https://github.com/Brianvikonura"
     }
 }
